@@ -60,7 +60,6 @@ int pinY = A1;
 
 byte correctMoves[4] = {2,2,4,4};
 byte moves[4];
-byte currentLength = 0;
 int Xread, Yread;
 byte count = 0;
 
